@@ -9,6 +9,8 @@ Hi! I'm Lugh, welcome to my GitHub page. I love open source and am always strivi
 - 🔭 I'm not currently working on anything, for the moment...😉
 - 🌱 I’m currently learning Zig.
 
+*« The street gives me images; books, worlds. Passing photographer, computer tinkerer, reader of science fiction and beyond. »*
+
 ### My Stuff
 
 - :keyboard: keyboards: Nuphy Air60 V2 - Wisteria Switches
